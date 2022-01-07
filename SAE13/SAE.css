@@ -1,0 +1,222 @@
+html,body{
+	padding : 0;
+	margin : 0;
+	
+}
+
+
+html{
+	font-family : Verdana;
+	text-align : justify;
+	color : gray;
+}
+
+.body1{
+	background-image : url("gaming.png");
+	background-size: cover;
+	background-attachment : fixed;
+	opacity: .95;
+}
+
+
+h1{
+	font-size : 500%;
+	margin-top : 23%;
+	margin-bottom : 25%;
+	text-align : center;
+	color : white;
+	
+}
+
+div{
+	background-color : white;
+	margin : 0;
+}
+
+section{
+	padding-top : 10%;
+	padding-bottom : 10%;
+	padding-left : 15%;
+	padding-right : 15%;
+	background-color : white;
+}
+
+.art1 > header{
+	text-align : center;
+	font-size : 300%;
+	margin-top : 15%;
+	padding : 5%;
+	color : black;
+	font-weight : bold;
+}
+
+.art1 > p{
+	border : solid;
+	border-radius : 10px;
+	padding : 3%;
+	background-color : #9393f3;
+	color : #504a4a;
+}
+
+.art2 > header{
+	text-align : center;
+	font-size : 300%;
+	margin-top : 20%;
+	padding : 5%;
+	color : black;
+	font-weight : bold;
+}
+
+.art2 > p{
+	border : solid;
+	border-radius : 10px;
+	padding : 3%;
+	background-color : #bfbff1;
+}
+
+
+.art10 > header{
+	text-align : center;
+	font-size : 300%;
+	margin-top : 20%;
+	padding : 5%;
+	color : black;
+	font-weight : bold;
+}
+
+.art10 > div{
+	margin-bottom : 15%;
+	border : solid;
+	padding : 3%;
+	border-radius : 10px;
+	background-color : #e3e3ef;
+}
+
+
+.p1{
+	font-size : 200%;
+	color : black;
+}
+
+.p2{
+	font-size : 200%;
+	text-align : right;
+	color : black;
+}
+
+
+.imgow{
+	width : 30%;
+	float : right;
+	margin : 1%;
+}
+
+.imgmc{
+	width : 25%;
+	float : right;
+	margin : 1%;
+}
+
+.imgtm{
+	width : 25%;
+	float : left;
+	margin : 1%;
+}
+
+.p3{
+	text-align : right; 
+	margin-top : 30%;
+	
+}
+
+
+
+
+.body2{
+	background-image : url("code.jpg");
+	background-size: cover;
+	background-attachment : fixed;
+	opacity: .95;
+}
+
+.art4 > header{
+	text-align : center;
+	font-size : 300%;
+	margin-top : 15%;
+	padding : 5%;
+	color : black;
+	font-weight : bold;
+}
+
+
+.art4 > p{
+	border : solid;
+	border-radius : 10px;
+	padding : 3%;
+	background-color : #9393f3;
+	color : #504a4a;
+}
+
+.imgmoi{
+	width : 8%;
+	float : right;
+	margin : 1%;
+}
+
+.art5 > header{
+	text-align : center;
+	font-size : 300%;
+	margin-top : 15%;
+	padding : 5%;
+	color : black;
+	font-weight : bold;
+}
+
+.art5 > p{
+	border : solid;
+	border-radius : 10px;
+	padding : 3%;
+	background-color : #9393f3;
+	color : #504a4a;
+}
+
+.art6 > header{
+	text-align : center;
+	font-size : 300%;
+	margin-top : 15%;
+	padding : 5%;
+	color : black;
+	font-weight : bold;
+}
+
+.art6 > p{
+	border : solid;
+	border-radius : 10px;
+	padding : 3%;
+	background-color : #9393f3;
+	color : #504a4a;
+
+}
+
+.imgslnst{
+	float : right;
+	margin : 1%;
+	width : 10%;
+	
+}
+
+.art7 > header{
+	text-align : center;
+	font-size : 300%;
+	margin-top : 20%;
+	padding : 5%;
+	color : black;
+	font-weight : bold;
+}
+
+.art7 > p{
+	border : solid;
+	border-radius : 10px;
+	padding : 3%;
+	background-color : #bfbff1;
+}
